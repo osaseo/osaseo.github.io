@@ -2,7 +2,3 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'testing'
 theme = 'barks'
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.87.0"
