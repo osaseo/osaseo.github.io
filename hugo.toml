@@ -1,9 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'testing'
 theme = 'barks'
-[params.head]
-    author = "Carl Barks"
-    custom_css = "<url_to_custom_css_file>"
-    description = "Hi, I'm Carl, and this is my website!"
-    keywords = ["some", "keywords", "to", "describe", "this"]
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"
