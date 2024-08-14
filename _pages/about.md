@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "hello! i'm osase :)"
+title: "welcome! i'm osase :)"
 author_profile: true
 redirect_from: 
   - /about/
