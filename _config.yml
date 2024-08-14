@@ -22,10 +22,10 @@ repository               : "osaseo/osaseo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "about me"
+  name             : "quick bites"
   pronouns         : "she/her"  
-  bio              : "im a phd candidate in astrophysics with a master's in history of science! you can read abour latest "
-  # location         : "Earth"
+  # bio              : "im a phd candidate in astrophysics with a master's in history of science! you can read abour latest "
+  # # location         : "Earth"
   employer         : "Harvard University"
   # uri              : # URL
   email            : "osase.omoruyi@gmail.com" 
@@ -65,7 +65,7 @@ author:
   # steam            : # Username
   # telegram         : # URL
   # tumblr           : # Username
-  twitter          : astroafro
+  # twitter          : astroafro
   # vine             : # Username
   # weibo            : # Username
   # wikipedia        : # Username
