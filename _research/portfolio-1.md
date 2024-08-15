@@ -1,6 +1,6 @@
 ---
 title: "'Beads-on-a-string' Star Formation Tied to One of the Most Powerful Active Galactic Nucleus Outbursts Observed in a Cool-core Galaxy Cluster"
-excerpt: "In 2014, the Hubble Space Telescope captured a remarkable beads-on-a-string" pattern of young stars around two colliding galaxies. To string together the origin of this star formation, we studied the galaxy cluster across multiple wavelengths, from X-ray to radio, and discovered the likely culprit $--$ a *150 million year old jet launched by a supermassive black hole*!   <br/><img src='/images/beads_multiwavelength.png'>"
+excerpt: "In 2014, the Hubble Space Telescope captured a remarkable beads-on-a-string" pattern of young stars around two colliding galaxies. To string together the origin of this star formation, we studied the galaxy cluster across multiple wavelengths, from X-ray to radio, and discovered the likely culprit -- a 150 million year old jet launched by a supermassive black hole!   <br/><img src='/images/beads_multiwavelength.png'>"
 collection: research
 ---
 <!-- 
