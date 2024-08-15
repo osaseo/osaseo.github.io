@@ -1,6 +1,6 @@
 ---
-title: "Emulating the IllustrisTNG Hydrodynamical Simulations with a Semi-Analytic Model"
-excerpt: "<img src='/images/ph_stngsam_summary.pdf'>"
+title: "(coming soon) Emulating the IllustrisTNG Hydrodynamical Simulations with a Semi-Analytic Model"
+excerpt: "<img src='/images/ph_stngsam_summary.png'>"
 collection: research
 ---
 <!-- 
