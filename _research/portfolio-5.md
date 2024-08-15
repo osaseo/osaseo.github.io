@@ -1,5 +1,5 @@
 ---
-title: "(coming soon) A JWST MIRI View of the Heart of Abell 2597"
+title: "(coming soon) The Close AGN Reference Survey: ALMA and HST Views of 33 Nearby Type 1 AGN"
 # excerpt: "<img src='/images/ph_a2597_xray_map.png'>"
 collection: research
 ---

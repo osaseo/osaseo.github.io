@@ -1,5 +1,5 @@
 ---
-title: "(coming soon) A JWST MIRI View of the Heart of Abell 2597"
+title: "(coming soon) Quantifying Bubble-Driven Feedback in the Interstellar Medium"
 # excerpt: "<img src='/images/ph_a2597_xray_map.png'>"
 collection: research
 ---
