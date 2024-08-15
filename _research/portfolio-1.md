@@ -6,9 +6,9 @@ collection: research
 <!-- 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
 
-##### *You can find more beautiful images of SDSS J1531 through our [*Chandra* press release here](https://chandra.si.edu/photo/2024/beads/more.html) and in the [paper, Omoruyi et al. (2024) here](https://ui.adsabs.harvard.edu/abs/2024ApJ...963....1O/abstract)! You can also take a fun [tour through the cluster here](https://www.youtube.com/watch?v=bouQkHDXMKA)*
+##### *You can find more beautiful images of SDSS J1531 through our [*Chandra* press release here](https://chandra.si.edu/photo/2024/beads/more.html) and in the [paper, Omoruyi et al. (2024) here](https://ui.adsabs.harvard.edu/abs/2024ApJ...963....1O/abstract)! You can also take a fun [tour through the cluster here](https://www.youtube.com/watch?v=bouQkHDXMKA)*.
 
-##### *You can also read short summaries about SDSS J1531 from [my *Chandra* blog post here](https://chandra.si.edu/blog/node/872) and this lovely [astrobites article by Annelia Anderson here!](https://astrobites.org/2024/07/30/200-millionth-anniversary-gift-a-necklace-made-of-stars/)*
+##### *You can read short summaries about SDSS J1531 from [my *Chandra* blog post here](https://chandra.si.edu/blog/node/872) and this lovely [astrobites article by Annelia Anderson here!](https://astrobites.org/2024/07/30/200-millionth-anniversary-gift-a-necklace-made-of-stars/)*
 <hr style="border:1px solid gray"> 
 
 ###### *The following text is adapted from [my Chandra blog post](https://chandra.si.edu/blog/node/872)*
@@ -25,8 +25,3 @@ The discovery of such an immense black hole outburst was very surprising. The Ch
 What makes SDSS 1531’s story even more remarkable is the overall stability of the cluster despite the extreme supermassive black hole outburst and being in the final stages of two giant clusters merging.  In several clusters with similarly rapidly cooling gas, we’ve seen that the energy released by the black hole doesn't seem to throw things into disarray but rather provides just enough energy to keep the cluster relatively stable. It’s surprising to see this same scenario play out in a cluster where the energy is several leagues beyond what's needed to keep the cluster stable. Furthermore, we only see radio waves and a bubble from one jet, but black holes usually fire two jets in opposite directions. We hope to investigate these mysteries further with more detailed radio and X-ray observations and, potentially, computer simulations.
 
 Our study underscores the importance of employing a multi-wavelength approach in astronomy. Just as a single conversation offers only a limited perspective on a person's life, viewing galaxies through one wavelength of light only reveals a small piece of their rich histories. By observing the universe across different wavelengths and with increasingly advanced telescopes,  we can study the different components of galaxies and galaxy clusters that would otherwise remain hidden.
-
-
-
-
-Take a tour through SDSS 1531 here https://www.youtube.com/watch?v=bouQkHDXMKA
