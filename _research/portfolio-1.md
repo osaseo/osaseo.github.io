@@ -1,17 +1,17 @@
 ---
 title: "'Beads-on-a-string' Star Formation Tied to One of the Most Powerful Active Galactic Nucleus Outbursts Observed in a Cool-core Galaxy Cluster"
-excerpt: "In 2014, the Hubble Space Telescope captured a remarkable 'beads-on-a-string' pattern of young stars around two colliding galaxies. To string together the origin of this star formation, we studied the galaxy cluster across multiple wavelengths, from X-ray through radio, and discovered the likely culprit -- a 150 million year old jet launched by a supermassive black hole!   <br/><img src=/images/beads_multiwavelength.png>"
+excerpt: "In 2014, the Hubble Space Telescope captured a remarkable 'beads-on-a-string' pattern of young stars around two colliding galaxies. To string together the origin of this star formation, we studied the galaxy cluster across multiple wavelengths, from X-ray through radio, and discovered the likely culprit -- a 150 million year old jet launched by a supermassive black hole!   <br/><img src='/images/beads_multiwavelength.webp'>"
 collection: research
 ---
 <!-- 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
 
-You can find more beautiful images of SDSS J1531 through our [*Chandra* press release here](https://chandra.si.edu/photo/2024/beads/more.html) and in the [paper, Omoruyi et al. (2014) here](https://ui.adsabs.harvard.edu/abs/2024ApJ...963....1O/abstract)!
+##### You can find more beautiful images of SDSS J1531 through our [*Chandra* press release here](https://chandra.si.edu/photo/2024/beads/more.html) and in the [paper, Omoruyi et al. (2014) here](https://ui.adsabs.harvard.edu/abs/2024ApJ...963....1O/abstract)!
 
-You can also read short summaries about SDSS J1531 from [my *Chandra* blog post here](https://chandra.si.edu/blog/node/872) and this lovely [astrobites article by Annelia Anderson here!](https://astrobites.org/2024/07/30/200-millionth-anniversary-gift-a-necklace-made-of-stars/)
+##### You can also read short summaries about SDSS J1531 from [my *Chandra* blog post here](https://chandra.si.edu/blog/node/872) and this lovely [astrobites article by Annelia Anderson here!](https://astrobites.org/2024/07/30/200-millionth-anniversary-gift-a-necklace-made-of-stars/)
 <hr style="border:1px solid gray"> 
 
-*Adapted from [my Chandra blog post](https://chandra.si.edu/blog/node/872)*
+###### *Adapted from [my Chandra blog post](https://chandra.si.edu/blog/node/872)*
 
 In 2008, astronomers using the Wisconsin–Indiana–Yale NOAO telescope in Arizona published images of the newly discovered galaxy cluster named SDSS J1531+3414 (see Figure 1, left). At first glance, it seemed like a standard massive cluster of galaxies with one giant galaxy in its center, hundreds of others surrounding it, and arc-like structures caused by gravitational lensing – a phenomenon where the cluster's gravity bends light from galaxies behind it. However, our understanding of SDSS 1531 changed dramatically in 2014 when the Hubble Space Telescope provided a higher-resolution view of the cluster from space (see Figure 1, right). Contrary to initial beliefs, the heart of the cluster housed not one but two massive galaxies on course to collide and merge into a single entity, with 19 clusters of young stars wrapped around them in a pattern that resembled beads on a string.
 
