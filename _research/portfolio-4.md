@@ -1,7 +1,7 @@
 ---
 title: "(coming soon) A JWST MIRI View of the Heart of Abell 2597"
-# excerpt: "<img src='/images/ph_a2597_xray_map.png'>"
 collection: research
+# excerpt: "<img src='/images/ph_a2597_xray_map.png'>"
 ---
 <!-- 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
