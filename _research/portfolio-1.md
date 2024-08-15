@@ -6,9 +6,9 @@ collection: research
 <!-- 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
 
-You can find more beautiful images of SDSS J1531 at through our [*Chandra* press release here!](https://chandra.si.edu/photo/2024/beads/more.html)
+You can find more beautiful images of SDSS J1531 at through our [*Chandra* press release here](https://chandra.si.edu/photo/2024/beads/more.html) and in the [paper, Omoruyi et al. (2014) here](https://ui.adsabs.harvard.edu/abs/2024ApJ...963....1O/abstract)!
 
-You can also read about SDSS J1531 from my *Chandra* blog 
+You can also read short summaries about SDSS J1531 from [my *Chandra* blog post here](https://chandra.si.edu/blog/node/872) and thrugh this lovely [astrobites article by Annelia Anderson here!](https://astrobites.org/2024/07/30/200-millionth-anniversary-gift-a-necklace-made-of-stars/)
 
 <hr style="border:1px solid gray"> </hr>
 
