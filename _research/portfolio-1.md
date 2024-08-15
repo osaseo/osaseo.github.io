@@ -1,10 +1,16 @@
 ---
 title: "'Beads-on-a-string' Star Formation Tied to One of the Most Powerful Active Galactic Nucleus Outbursts Observed in a Cool-core Galaxy Cluster"
-excerpt: "In 2014, the Hubble Space Telescope captured a remarkable 'beads-on-a-string' pattern of young stars around two colliding galaxies. To string together the origin of this star formation, we studied the galaxy cluster across multiple wavelengths, from X-ray through radio, and discovered the likely culprit -- a 150 million year old jet launched by a supermassive black hole!   <br/><img src='/images/beads_multiwavelength.webp>"
+excerpt: "In 2014, the Hubble Space Telescope captured a remarkable 'beads-on-a-string' pattern of young stars around two colliding galaxies. To string together the origin of this star formation, we studied the galaxy cluster across multiple wavelengths, from X-ray through radio, and discovered the likely culprit -- a 150 million year old jet launched by a supermassive black hole!   <br/><img src=/images/beads_multiwavelength.webp>"
 collection: research
 ---
 <!-- 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
+
+You can find more beautiful images of SDSS J1531 at through our [*Chandra* press release here!](https://chandra.si.edu/photo/2024/beads/more.html)
+
+You can also read about SDSS J1531 from my *Chandra* blog 
+
+<hr style="border:1px solid gray"> </hr>
 
 *Adapted from [my Chandra blog post](https://chandra.si.edu/blog/node/872)*
 
