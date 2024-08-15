@@ -1,6 +1,6 @@
 ---
 title: "(coming soon) Quantifying Bubble-Driven Feedback in the Interstellar Medium"
-# excerpt: "<img src='/images/ph_a2597_xray_map.png'>"
+excerpt: " "
 collection: research
 ---
 <!-- 

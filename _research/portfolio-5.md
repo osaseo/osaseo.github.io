@@ -1,6 +1,6 @@
 ---
 title: "(coming soon) The Close AGN Reference Survey: ALMA and HST Views of 33 Nearby Type 1 AGN"
-# excerpt: "<img src='/images/ph_a2597_xray_map.png'>"
+excerpt: " "
 collection: research
 ---
 <!-- 
