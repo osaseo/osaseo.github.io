@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Osase's Homepage"
 title_separator          : "-"
-name                     : &name "Osase"
+name                     : &name "Osase Omoruyi"
 description              : &description "personal description"
 url                      : https://osaseo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "osaseo/osaseo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "osase"
+  name             : "osase omoruyi"
   pronouns         : "she/her"  
   # bio              : "im a phd candidate in astrophysics with a master's in history of science! you can read abour latest "
   # # location         : "Earth"
