@@ -9,15 +9,14 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> i enjoy sweet things </p>
+    <p> i enjoy making and sharing sweet things </p>
 
 # news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `profile.png` and put it in the `img/` folder.
+Hi there! I’m a graduate student at Harvard University, working in both Astronomy (PhD) and the History of Science (MA). I’m broadly interested in how feedback from stars and accreting supermassive black holes shapes the lives of galaxies, using state-of-the-art multi-wavelength observations (X-ray through sub-mm), and cosmological simulations. I’m particularly focused on improving how AGN feeding and feedback are modeled in cosmological simulations, where small processes can have large-scale impacts on galaxies. This framing also works well for my history of science archival and ethnographic research, where the often-overlooked stories of marginalized communities can reshape our broader understanding of scientific progress. Check out my research and talks pages to learn more about my work!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+If I may toot my own horn, I’ve been told I give fun talks. Feel free to e-mail me to stop by if you’re in the New England area!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
