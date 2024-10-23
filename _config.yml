@@ -337,7 +337,7 @@ scholar:
   sort_by: date
   order: ascending
   type_order: [leadarticle, leadunpublished, coarticle, counpublished]
-  type_names: {leadunpublished: Lead Pre-Prints, leadarticle: Lead Journal Articles, 
+  type_names: {leadunpublished: Pre-Prints, leadarticle: Journal Articles, 
         counpublished: Contributing Pre-Prints, coarticle: Contributing Journal Articles, }
   group_order: ascending
 
