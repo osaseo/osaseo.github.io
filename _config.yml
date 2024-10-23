@@ -335,11 +335,11 @@ scholar:
   query: "@*"
   # group_by: type, year
   sort_by: date
-  order: descending
+  order: ascending
   type_order: [leadarticle, leadunpublished, coarticle, counpublished]
-  type_names: {leadunpublished: Lead Author Pre-Prints/In Preparation, leadarticle: Lead Author Journal Articles, 
-        counpublished: Contributing Author Pre-Prints/In Preparation, coarticle: Contributing Author Journal Articles, }
-  group_order: descending
+  type_names: {leadunpublished: Lead Pre-Prints, leadarticle: Lead Journal Articles, 
+        counpublished: Contributing Pre-Prints, coarticle: Contributing Journal Articles, }
+  group_order: ascending
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
