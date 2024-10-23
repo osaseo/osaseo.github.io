@@ -336,9 +336,9 @@ scholar:
   # group_by: type, year
   sort_by: date
   order: descending
-  type_order: [article, inbook, book, unpublished, misc, report, conference, incollections, inproceedings, proceedings]
-  type_names: {unpublished: Pre-Prints/In Preparation, report: reports, article: Journal Articles, 
-        inproceedings: conference articles & others}
+  type_order: [leadarticle, leadunpublished, coarticle, counpublished]
+  type_names: {leadunpublished: Lead Author Pre-Prints/In Preparation, leadarticle: Lead Author Journal Articles, 
+        counpublished: Contributing Author Pre-Prints/In Preparation, coarticle: Contributing Author Journal Articles, }
   group_order: descending
 
 # Display different badges withs stats for your publications
