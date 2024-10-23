@@ -2,10 +2,11 @@
 layout: page
 permalink: /publications/
 title: publications & preprints
-description: "Publications & preprints by categories in reversed chronological order. You can find my exhaustive [ADS library here](https://ui.adsabs.harvard.edu/public-libraries/qxzKmgEMRxaA2gqe0jcS2Q)"
+description: 
 nav: true
 nav_order: 1
 ---
+You can find my exhaustive [ADS library here](https://ui.adsabs.harvard.edu/public-libraries/qxzKmgEMRxaA2gqe0jcS2Q).
 
 <!-- _pages/publications.md -->
 
