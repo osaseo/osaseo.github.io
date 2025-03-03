@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 1
 ---
-you can find my exhaustive [ADS library here](https://ui.adsabs.harvard.edu/public-libraries/qxzKmgEMRxaA2gqe0jcS2Q)
+for astronomers, you can find my exhaustive [ADS library here](https://ui.adsabs.harvard.edu/public-libraries/qxzKmgEMRxaA2gqe0jcS2Q)
 
 <!-- _pages/publications.md -->
 
