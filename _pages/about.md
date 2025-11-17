@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Student at Harvard University
+subtitle: Postodctoral Research Fellow at Princeton University
 
 profile:
   align: right
@@ -16,7 +16,7 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I’m a graduate student working in both Astronomy (PhD) and the History of Science (MA). I’m broadly interested in how feedback from stars and accreting supermassive black holes shapes the lives of galaxies, using state-of-the-art multi-wavelength observations (X-ray through sub-mm), and cosmological simulations. I’m particularly focused on improving how black hole feeding and feedback are modeled in cosmological simulations, given that this small-scale process can have such a large-scale impact on galaxies. This framing also works well for my history of science archival and ethnographic research, where the often-overlooked stories of marginalized communities can reshape our broader understanding of scientific progress. Check out my research page to learn more about my work!
+Hi there! I’m a Carnegie-Princeton and CCA Postdoctoral Fellow currently at Princeton. I recently obtained my PhD in Astronomy & Astrophysics and MA in the History of Science from Harvard. I’m broadly interested in how feedback from stars and accreting supermassive black holes shapes the lives of galaxies, using state-of-the-art multi-wavelength observations (X-ray through sub-mm), and cosmological simulations. I’m particularly focused on improving how black hole feeding and feedback are modeled in cosmological simulations, given that this small-scale process can have such a large-scale impact on galaxies. This framing also works well for my history of science archival and ethnographic research, where the often-overlooked stories of marginalized communities can reshape our broader understanding of scientific progress. Check out my research page to learn more about my work!
 
 If I may toot my own horn, I’ve been told I give fun talks with very pretty visuals. Feel free to e-mail me to stop by your department if you’re in the New England area!
 
